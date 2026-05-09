@@ -1,0 +1,13 @@
+{
+  "tool": "FramerClone",
+  "version": "1.0.0",
+  "clonedAt": "2026-05-09T10:07:20.265Z",
+  "sourceUrl": "https://brave-technology-393577.framer.app/",
+  "stats": {
+    "pages": 35,
+    "assets": 412,
+    "totalSize": 173151721,
+    "duration": 19801
+  },
+  "migrate": false
+}

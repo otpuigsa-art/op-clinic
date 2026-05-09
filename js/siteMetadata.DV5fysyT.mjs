@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.BB3S47xo.mjs";function t(e,t){return{description:`OP Clinic és la teva clínica de fisioteràpia a Manresa. Especialistes en Indiba, ecografia, ones de xoc i rehabilitació esportiva. Demana cita avui.`,robots:`max-image-preview:large`,title:`OP Clinic Manresa | Fisioteràpia avançada i rehabilitació`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=siteMetadata.DV5fysyT.mjs.map
